@@ -1,4 +1,3 @@
-# events.py
 import random
 
 def random_event(character):
